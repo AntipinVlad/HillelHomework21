@@ -18,7 +18,8 @@ public class Homework21Program {
                             + "4 %s: %,.2f \n"
                             + "5 %s: %,.2f \n"
                             + "6 Exit \n",
-                    COFFEE, COFFEE_PRICE, TEA, TEA_PRICE, LEMONADE, LEMONADE_PRICE, MOJITO, MOCHITO_PRICE, MINERAL_WATER, MINERAL_WATER_PRICE, COCA_COLA, COCA_COLA_PRICE);
+                    COFFEE, COFFEE_PRICE, TEA, TEA_PRICE, LEMONADE, LEMONADE_PRICE, MOJITO, MOCHITO_PRICE,
+                    MINERAL_WATER, MINERAL_WATER_PRICE, COCA_COLA, COCA_COLA_PRICE);
 
             String choice = scanner.nextLine();
             DrinksMachine drink;
